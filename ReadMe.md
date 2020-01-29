@@ -15,3 +15,5 @@ All the metrics will be exposed onto
 /metrics endpoint
 /prometheus endpoint will be scrapped
 
+
+-Dspring.profiles.active=chaos-monkey 
